@@ -1,0 +1,15 @@
+/Users/onkargunjal/Downloads/PureRoots 2/backend/src/main/java/com/pureroots/service/AnalyticsService.java
+/Users/onkargunjal/Downloads/PureRoots 2/backend/src/main/java/com/pureroots/repository/FeedbackRepository.java
+/Users/onkargunjal/Downloads/PureRoots 2/backend/src/main/java/com/pureroots/controller/OrderController.java
+/Users/onkargunjal/Downloads/PureRoots 2/backend/src/main/java/com/pureroots/model/Order.java
+/Users/onkargunjal/Downloads/PureRoots 2/backend/src/main/java/com/pureroots/config/SecurityConfig.java
+/Users/onkargunjal/Downloads/PureRoots 2/backend/src/main/java/com/pureroots/model/User.java
+/Users/onkargunjal/Downloads/PureRoots 2/backend/src/main/java/com/pureroots/repository/JuiceRepository.java
+/Users/onkargunjal/Downloads/PureRoots 2/backend/src/main/java/com/pureroots/repository/OrderRepository.java
+/Users/onkargunjal/Downloads/PureRoots 2/backend/src/main/java/com/pureroots/controller/MenuController.java
+/Users/onkargunjal/Downloads/PureRoots 2/backend/src/main/java/com/pureroots/model/Feedback.java
+/Users/onkargunjal/Downloads/PureRoots 2/backend/src/main/java/com/pureroots/repository/UserRepository.java
+/Users/onkargunjal/Downloads/PureRoots 2/backend/src/main/java/com/pureroots/service/OrderService.java
+/Users/onkargunjal/Downloads/PureRoots 2/backend/src/main/java/com/pureroots/model/Juice.java
+/Users/onkargunjal/Downloads/PureRoots 2/backend/src/main/java/com/pureroots/PureRootsApplication.java
+/Users/onkargunjal/Downloads/PureRoots 2/backend/src/main/java/com/pureroots/controller/AuthController.java
